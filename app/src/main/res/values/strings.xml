@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recipe List</string>
+    <string-array name="recipe_list">Recipe List
+        <item>Chicken soup</item>
+        <item>Corn rib soup</item>
+        <item>Pork garlic</item>
+        <item>Spicy pork belly</item>
+        <item>Spicy rib</item>
+        <item>Tomato egg soup</item>
+        <item>White radish with egg</item>
+    </string-array>
+</resources>
